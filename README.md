@@ -11,3 +11,4 @@ The specifications implemented in the lab includes a sampling rate of 8 kilo sam
 creating a reverb of the data, the third button speeding up and delaying the data, and the fourth
 button slowing down the data.
 
+https://www.youtube.com/watch?v=_gPnLU-jgM4&ab_channel=KappaKenny
