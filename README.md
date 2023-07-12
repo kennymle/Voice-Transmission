@@ -4,7 +4,7 @@ processing which includes reading in data from a microphone, processing that dat
 the processed data out to an amplifier and subsequently to a speaker.
 
 OBJECTIVE: Without changing sample rate, Implement a DSP based player and recorder using the STM32CubeIDE 1.7.0 and
-breadboard setup involving push buttons, LEDs, resistors, and H743ZI2 board. Data processing
+breadboard setup involving push buttons, LEDs, resistors, and H743ZI2 board (32-bit microcontroller). Data processing
 in this lab includes adding reverb and changing the playback speed.
 The specifications implemented in the lab includes a sampling rate of 8 kilo samples per second
 (Ksps), the first button following a protocol for recording and erasing audio, the second button
