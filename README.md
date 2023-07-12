@@ -14,4 +14,4 @@ button slowing down the data.
 Reverb was achieved by coding FIFO shift register logic to create the 70ms delay desired in the spec.
 SpeedUp was achieved by 
 
-https://www.youtube.com/watch?v=_gPnLU-jgM4&ab_channel=KappaKenny
+https://www.youtube.com/watch?v=_gPnLU-jgM4&ab_channel=stock
